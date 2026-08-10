@@ -33,9 +33,17 @@ Initial sensor support includes:
 
 - DHT22
 - MQ-2
+- MQ-5
 - MQ-135
 
 Additional sensors may be added during development.
+
+## Development Boards
+
+This project support devices:
+- ESP32
+- ESP8266
+- Wemos D1 Mini
 
 ## Architecture
 
