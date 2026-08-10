@@ -44,3 +44,7 @@ AéreAlertA uses a **modular monolithic architecture**, with Laravel as the main
 ## Status
 
 Currently under development.
+
+## Author
+
+Naufal Nadhif Rabbani Iskandar
