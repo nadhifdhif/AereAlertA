@@ -2,8 +2,6 @@
 
 AéreAlertA is a web-based IoT air monitoring and environmental control system designed to collect, visualize, and analyze environmental sensor data in real time.
 
-The system is planned to support air-quality monitoring, environmental recommendations, device control, alerts, and AI-assisted analysis.
-
 ## Tech Stack
 
 - Laravel 13
