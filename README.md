@@ -10,21 +10,6 @@ AéreAlertA is a web-based IoT air monitoring and environmental control system d
 - Tailwind CSS
 - Vite
 
-## Planned Features
-
-- User management
-- IoT device management
-- Real-time environmental monitoring
-- Temperature and humidity monitoring
-- Air quality and gas monitoring
-- Interactive monitoring dashboard
-- Historical sensor data and charts
-- HMI-based device control
-- AI-assisted environmental analysis
-- Weather data integration
-- Email and WhatsApp alerts
-- Live camera monitoring
-
 ## Sensors
 
 Initial sensor support includes:
