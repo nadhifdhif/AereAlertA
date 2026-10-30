@@ -17,6 +17,7 @@ Initial sensor support includes:
 - DHT22
 - MQ-2
 - MQ-135
+- pH Sensor
 
 Additional sensors may be added during development.
 
